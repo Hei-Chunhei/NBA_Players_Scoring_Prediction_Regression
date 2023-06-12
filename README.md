@@ -6,7 +6,7 @@ Data from Kaggle - https://www.kaggle.com/datasets/vivovinco/nba-player-stats
 Project Title: NBA Players Scoring Prediction Regression
 
 Description:
-This repository contains a machine learning project focused on predicting the scoring performance of NBA players using regression techniques. By utilizing historical player statistics and game data, the project aims to develop accurate models that can forecast a player's scoring output in future games.
+This repository contains a machine learning project focused on predicting the scoring performance of NBA players using regression techniques using Jupyter Notebook. By utilizing historical player statistics and game data, the project aims to develop accurate models that can forecast a player's scoring output in future games.
 
 Key Features:
 
